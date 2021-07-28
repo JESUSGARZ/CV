@@ -1,0 +1,18 @@
+.academic {
+    margin: 0 0 0 20px;
+    grid-area: Academic;
+    padding: 20px;
+   
+
+}
+.academic__item {
+    margin-bottom: 15px;
+}
+.academic__item .academic__date {
+    color: #0bb5f4
+}
+.academic__title {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

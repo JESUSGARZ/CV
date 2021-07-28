@@ -1,0 +1,49 @@
+header {
+
+    display: flex;
+    color:white;
+    margin: .5em;
+    padding: 1em;
+    color:black;
+    
+    
+}
+header img {
+    width: 200px;
+    height: 200px ;
+    border-radius: 50%;
+    margin-right: 120px;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}
+.header__info ul{
+    display: inline;
+}
+
+.header__info ul li {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.header__info ul li .icon {
+    width: 35px;
+    height: 35px;
+    background: #fff;
+    color: #0bb5f4;
+    border-radius: 50%;
+    margin-right: 25px;
+    font-size: 16px;
+    position: relative;
+    border:#0791e6 solid 2px;
+}
+
+.fa-map-signs:before {
+    content: "\f277";
+}
+.header__info ul li .icon i{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

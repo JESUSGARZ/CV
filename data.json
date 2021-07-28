@@ -1,0 +1,166 @@
+{
+    "data": {
+
+
+           
+                
+                    "name": "Jesus Alberto Garzon Castillo",
+                    "profession": "Frontend Developer",
+                    "address": "Puente Aranda, Bogota ",
+                    "country":"COLOMBIA",
+                    "phone":"+57 305-772-4673",
+                    "email": "jesus.castillo352@gmail.com",
+                    "profile":"I am an enthusiast of web programming, I am currently in my training process to become a full stack web developer, so I have followed the training path of platzi starting with Html and Css and continuing with Javascript and technologies such as React. I want to be able to create quality content for clients and generate projects that contribute to Colombian society."
+
+                
+           
+
+            ,
+      
+                   
+                  
+
+        
+        
+            "experience":[
+                {
+                    "title":"Bit Coin Layout",
+                    "description":"The first project I developed with Html and Css. consisted of developing the layout of an application using the movile first methodology"
+                },
+                {
+                    "title":"Simon Dice",
+                    "description":"The project consisted of performing a logic based on random numbers and an array of data to complete a series of levels of 'Simon Says'."
+                },
+                {
+                    "title":"Platzi Video",
+                    "description":"Through the web development school of platzi this project is presented, and at this stage I have had the opportunity to develop the layout of Platzi Video."
+                }
+            ],
+
+        
+        
+            "academic": [
+                {
+                    "date":"2012 - 2018",
+                    "title":"Business Management",
+                    "description":"I finished my carrier in Business management at La Salle university"
+                    
+                },
+                {
+                    "date":"Coursing",
+                    "title":"Web Developer",
+                    "description":"I started my career in web development at Platzi platform and I will become a web developer as soon as possible."   
+    
+                },
+                {
+                    "date":"2012 - 2017",
+                    "title":"English",
+                    "description":"I have my certificate in level B2 from the CLUS (La Salle language center)"   
+    
+                }
+            ],
+    
+
+        
+        
+            "skills": [
+                {
+                    "title": "html",
+                    "percentage": "70"
+                },
+                {
+                    "title": "css",
+                    "percentage": "50"
+                },
+                {
+                    "title": "javascript",
+                    "percentage": "60"
+                },
+                {
+                    "title": "react",
+                    "percentage": "50"
+                }
+
+            ],  
+
+        
+        
+            
+            "interest": [
+                "JavaScript",
+                "css & preprocesors",
+                "React js, React Router y Redux",
+                "Backend"
+            ],
+
+        
+        
+            "languages": [
+                {
+                    "name": "Spanish",
+                    "percentage": "95"
+                },
+                {
+                    "name": "English",
+                    "percentage": "60"
+                }
+            ],
+
+        
+        
+            
+            "social": [
+                {
+                    "icon": "fab fa-facebook-square",
+                    "title": "Facebook",
+                    "user": "Jesus Alberto Garzon Castillo@facebook"
+                },
+                {
+                    "icon": "fab fa-twitter-square",
+                    "title": "Twitter",
+                    "user": "jesus@twitter"
+                },
+                {
+                    "icon": "fab fa-linkedin",
+                    "title": "Linkedin",
+                    "user": "jesus alberto@linkedin"
+                }
+
+                
+            ]
+    }
+}    
+
+
+        
+        
+
+    
+ 
+    
+        
+   
+    
+        
+    
+        
+           
+
+        
+         
+               
+       
+             
+        
+               
+        
+               
+        
+               
+
+        
+           
+    
+
+    
+           

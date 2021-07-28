@@ -1,0 +1,24 @@
+.experience {
+    margin: 0 20PX;
+    grid-area: Experience;
+    display: inline;
+    justify-content: center;
+    padding: 20px;
+   
+
+}
+
+.experience__container-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience__item {
+    display: block;
+    justify-content:flex-start;
+    margin-left: 20px;
+    margin-bottom: 30px;
+   
+}
+
