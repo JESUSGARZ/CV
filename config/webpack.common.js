@@ -7,15 +7,15 @@ module.exports={
     entry:"./src/index.js",
     output: {
         path: path.resolve(__dirname,"../dist"),
-        filename: "[name].[contenthash].js", /** numero aleatorio diferente para usar el ultimo empaquetado */
+        filename: "[name].[contenthash].js", 
         publicPath:"",
     },
     resolve: {
-        extensions: [".js",".jsx"], /**con esta configuarion no tengo que pasar las extensiones de los archivos */
+        extensions: [".js",".jsx"], 
          
     },
    
-    /** aqui se configura babel para que lea los tipos de archivos que le pidamos */
+    
     module: {
       
         rules: [
