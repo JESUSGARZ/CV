@@ -77,8 +77,7 @@ To document the project I chose to use  the Readme.md to explain the steps of th
 
 ## ⚒️ Set Up
 ### 🚚 API
-this is the first step for the rpoject to run.To run the API  you have to go to your terminal an run the next command:
-json-server -w -p 4000 data.json
+this is the first step for the project to run. The API runs with json-server.
 
 
 ### 🛠️ Instalación
@@ -93,7 +92,7 @@ npm run start
 
 ### 💻 Server
 ```
-json-server -w -p 4000 data.json
+npm run server
 ```
 
 ### 🧱 Compilar

@@ -7,19 +7,15 @@
 }
 
 body {
-    width: 90 vw;
-    margin: 50px 90px;
+    width: 90vw;
+    margin: 20px auto;
     padding: 1em;
     font-size: 16px;
     line-height: 22px;
-    
     position: relative;
     z-index: 20;
-   
     background: white;
     box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%);
-    backdrop-filter: blur( 3.5px );
-    -webkit-backdrop-filter: blur( 3.5px );
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
   }
@@ -65,9 +61,11 @@ h3{
 }
 
 .bold {
+    
     font-weight: 700;
     font-size: 20px;
     text-transform: uppercase;
+    
 }
 .title {
     color:#0791e6;
@@ -76,3 +74,29 @@ h3{
     color:#0bb5f4 ;
 }
 
+@media (max-width:737px) {
+    body {
+        width: 95%;
+        margin: 15px auto;
+
+    }
+}
+
+@media (max-width:545px) {
+    body {
+        width: 95%;
+        margin: 5px auto;
+        padding: 20px;
+
+    }
+    
+    main{
+        position: relative;
+        display: block;
+        min-height: 100vh;
+
+    }
+    h2{
+        margin: 20px 0;
+    }
+}

@@ -47,3 +47,56 @@ header img {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+@media(max-width:904px) {
+    header {
+        display: block;
+    }
+    div .header__info {
+      
+        display: flex;
+        flex-direction: column;
+       align-items:  center;
+    }
+    div .header__photo {
+        display: flex;
+        flex-direction: column;
+        align-items:  center;
+
+    }
+
+    div .header__job-title {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items:  center;
+
+    }
+    
+
+}
+@media (max-width:545px) { 
+    .header__e-mail{
+        display: inline;
+    }
+    .header__info ul {
+        padding-inline-start: 0px;
+
+    }
+    header img {
+        width: 200px;
+        height: 200px ;
+        border-radius: 50%;
+        margin: 15px auto;
+    
+    }
+    div .header__job-title {
+        justify-content: center;
+    }
+    header {
+        padding: 20px;
+        margin: 0;
+    }
+
+
+        
+}

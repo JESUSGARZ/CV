@@ -22,3 +22,19 @@
    
 }
 
+@media (max-width:545px) {
+    .experience {
+        display: block;
+        padding: 20px;
+        margin: 0;
+    } 
+    .experience__container-item{
+        display: block;
+    }
+    .experience__item{
+        margin-left: 0;
+    }
+
+}
+
+    
