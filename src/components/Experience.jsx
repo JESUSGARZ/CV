@@ -9,17 +9,19 @@ const Experience = () => {
     const {experience} = useContext(AppContext);
     
     
+    
 
         return (
        
             <section className="experience">
             <h2 className="title">Experience</h2>
                 <div className="experience__container-item">
-                {experience.map(({title,description}) => {
+                {experience.map(({title,description,url}) => {
                     return(
-                    <div className="experience__item">
+                    <div  title className="experience__item">
                         <h3 className="item__title">{title}</h3>
                         <p className="item__description">{description}</p>
+                        <a className="item__url" href={url}>Ir al Proyecto</a>
                     </div>
                     )
                             

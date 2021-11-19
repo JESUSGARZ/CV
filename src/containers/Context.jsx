@@ -1,10 +1,11 @@
 import useData from '../hooks/useData'
 import {  createContext } from "react";
+import {data} from '../../data.json';
 export const AppContext= createContext();
 
 
 const ContextProvider =({children}) => {
-  const dataFromApi = useData('http://localhost:4000/data');
+  const dataFromApi = data;  //useData('http://localhost:4000/data');
 
 
 

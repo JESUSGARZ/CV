@@ -24,16 +24,24 @@
         
             "experience":[
                 {
-                    "title":"Bit Coin Layout",
-                    "description":"The first project I developed with Html and Css. consisted of developing the layout of an application using the movile first methodology"
+                    "title":"JOP",
+                    "description":"this is a real time quote and invoice generator for JOP company, I'm currently working on this project",
+                    "url":"https://61980e09c3810d26a12db4ac--elastic-newton-2c0ac7.netlify.app/"
                 },
                 {
                     "title":"Simon Dice",
-                    "description":"The project consisted of performing a logic based on random numbers and an array of data to complete a series of levels of 'Simon Says'."
+                    "description":"The project consisted of performing a logic based on random numbers and an array of data to complete a series of levels of 'Simon Says'.",
+                    "url":"https://619814b8c3810d31b32db580--focused-curran-0371fe.netlify.app/"
                 },
                 {
-                    "title":"Platzi Video",
-                    "description":"Through the web development school of platzi this project is presented, and at this stage I have had the opportunity to develop the layout of Platzi Video."
+                    "title":"Js Porfolio",
+                    "description":"This project consumes an API and when you refresh the page everything changes",
+                    "url":"https://6153724e2ee2c2000740429d--goofy-bartik-6db0f0.netlify.app/"
+                },
+                {
+                    "title":"Evaluation System",
+                    "description":"this is an assessment system that consumes an API and creates an assessment so that the user can take an exam and be graded in real time.",
+                    "url":"https://616ce25ef92ca90007fff44c--cocky-hodgkin-e5e89d.netlify.app/"
                 }
             ],
 
@@ -124,7 +132,13 @@
                     "icon": "fab fa-linkedin",
                     "title": "Linkedin",
                     "user": "jesus alberto@linkedin"
+                },
+                {
+                    "icon": "./gitHub.svg",
+                    "title": "Git Hub",
+                    "user": "JESUSGARZ"
                 }
+                
 
                 
             ]
